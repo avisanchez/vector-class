@@ -1,5 +1,5 @@
 # vector-class
-Java vector class based off of p5.js library
+A Java vector class based off of the p5.js vector object
 
 ## Documentation ##
 Reference https://p5js.org/reference/#/p5.Vector
